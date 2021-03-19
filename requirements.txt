@@ -10,7 +10,7 @@ django-imagekit==4.0
 django-libsass==0.7
 django_orderable==6.0.1
 django-redis==4.7.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 django-storages[boto3]==1.6.6
 gevent==1.2.2
 greenlet==0.4.13
